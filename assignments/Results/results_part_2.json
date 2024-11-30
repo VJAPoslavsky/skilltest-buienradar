@@ -1,0 +1,26 @@
+{
+    "Question 5": {
+        "description": "Which weather station recorded the highest temperature?",
+        "result": {
+            "station": "Meetstation Maastricht",
+            "temperature": 8.2
+        }
+    },
+    "Question 6": {
+        "description": "What is the average temperature?",
+        "result": 5.919629629629625
+    },
+    "Question 7": {
+        "description": "What is the station with the biggest difference between feel temperature and the actual temperature?",
+        "result": {
+            "station": "Meetstation Hoorn Terschelling",
+            "difference": 4.1000000000000005
+        }
+    },
+    "Question 8": {
+        "description": "Which weather station is located in the North Sea?",
+        "result": [
+            "Meetstation Zeeplatform F-3"
+        ]
+    }
+}
